@@ -89,7 +89,7 @@ setBoton(true)
 
 
               <div className="informacion">
-                        PRECIO DEL DOLAR  BCV :{list? (<div>{list.data.USD.BS} Bs</div>)
+                        PRECIO DEL DOLAR  BCV :{list? (<div><h1>{list.data.USD.BS} Bs</h1></div>)
                                                 : (<div>cargando</div>) 
                                                   }
 
