@@ -21,3 +21,8 @@ Open [http://localhost:3000](http://localhost:3000) para verla en tu navegador .
 
 
 ![Screenshot_2023_01_11-3](./src/convercio.png)
+
+# Scanear el codigo para bajar y instalar la App en su movil
+
+![codigo_QR](./src/qr-code.png)
+
