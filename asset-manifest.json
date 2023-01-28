@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/App-convercion-monedas/static/css/main.906e0680.css",
-    "main.js": "/App-convercion-monedas/static/js/main.0df75a93.js",
+    "main.css": "/App-convercion-monedas/static/css/main.e11839fa.css",
+    "main.js": "/App-convercion-monedas/static/js/main.df5605c9.js",
     "static/js/787.d9354130.chunk.js": "/App-convercion-monedas/static/js/787.d9354130.chunk.js",
     "static/media/fondo1.jpg": "/App-convercion-monedas/static/media/fondo1.a95da81f84dfc3861410.jpg",
-    "static/media/logo.png": "/App-convercion-monedas/static/media/logo.b76ebd9a574d17be4d1e.png",
+    "static/media/logo.png": "/App-convercion-monedas/static/media/logo.b236cf4d0c79e39ca849.png",
     "index.html": "/App-convercion-monedas/index.html",
-    "main.906e0680.css.map": "/App-convercion-monedas/static/css/main.906e0680.css.map",
-    "main.0df75a93.js.map": "/App-convercion-monedas/static/js/main.0df75a93.js.map",
+    "main.e11839fa.css.map": "/App-convercion-monedas/static/css/main.e11839fa.css.map",
+    "main.df5605c9.js.map": "/App-convercion-monedas/static/js/main.df5605c9.js.map",
     "787.d9354130.chunk.js.map": "/App-convercion-monedas/static/js/787.d9354130.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.906e0680.css",
-    "static/js/main.0df75a93.js"
+    "static/css/main.e11839fa.css",
+    "static/js/main.df5605c9.js"
   ]
 }
