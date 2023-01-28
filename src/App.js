@@ -105,7 +105,7 @@ setBoton(true)
                           setValor(e.target.value);
                         }} 
                         
-                        type="text"  class="form-control" id="exampleFormControlInput1" placeholder="ingrese monto"/>
+                        type="number"  class="form-control" id="exampleFormControlInput1" placeholder="ingrese monto"/>
                             
 
                 </div>
